@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Derick Eric Bugingo] [Der-Feb]!
+# 👋 Hi, I'm Derick Eric Bugingo Der-Feb!
 
 ## 🚀 About Me
 I'm a junior developer with a passion for building web applications and Games. I'm constantly learning and exploring new full-stack and game development technologies to enhance my skills and contribute to exciting projects.
