@@ -20,8 +20,6 @@ I'm a junior developer with a passion for building web applications and Games. I
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <!-- Game Development & Graphics -->
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
